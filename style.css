@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right,#fcfeff, #d7d1ca 100%);
+    margin: auto;
+}
+
+section{
+    padding: 15px;
+}
+#PF{
+    text-align: center;
+    }
+
+#name{
+    margin-left: 150px;
+}
+
+nav{
+    background-color: dimgray;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+nav a{
+      margin: 15px;
+      color: #fefefe;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+nav a:hover {
+      background-color: rgb(148, 149, 152);
+    }
+
+#home img {
+    border-radius: 20px;
+    border-style: groove;
+}
+
+#contact_me{
+    margin-left: 20px;
+}
+
+#contact_me a{
+    padding: 20px;
+
+}
+
